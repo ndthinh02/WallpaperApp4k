@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class Category implements Serializable {
     //ámkdsdmskmdskdmska
+    //djasdjsbjdskdnsakd
     private String category;
     private String caregoryURL;
 
