@@ -3,6 +3,7 @@ package com.example.wallpaperapp4k.model;
 import java.io.Serializable;
 
 public class Category implements Serializable {
+    //ámkdsdmskmdskdmska
     private String category;
     private String caregoryURL;
 
